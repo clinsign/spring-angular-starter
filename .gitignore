@@ -13,23 +13,11 @@
 *.iml
 *.ipr
 
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+.vscode
 
-
-target/
-!.mvn/wrapper/maven-wrapper.jar
-
-
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-.nb-gradle/
+build
+target
+dist
 
 
 /target

@@ -10,8 +10,7 @@ export class AppComponent {
   title = 'Demo';
   data = {};
   constructor(private http: HttpClient) {
-    // tslint:disable-next-line: no-console
-    console.info('xxxxxx');
+    console.info('>> call to spring api');
     http.get('resource').subscribe(data => this.data = data);
   }
 }
