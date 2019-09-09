@@ -1,7 +1,7 @@
 .mvn
 .settings
 .classpath
-.editiorconfig
+.editorconfig
 .factorypath
 .apt_generated
 .project
