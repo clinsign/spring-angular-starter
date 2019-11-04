@@ -1,6 +1,5 @@
 security:
   user:
-    name: user1
     password: pwd
   ignored:
   - "*.bundle.*"

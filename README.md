@@ -6,6 +6,8 @@ Based off
 
 ## Additions
 
+** does not work **
+
 Angular HttpInterceptor and CORS configuration so that the angular app running on localhost:4200 can connect to the java spring api running on localhost:8080, for development.
 
 This way you can serve the java spring app on localhost:8080 like so
